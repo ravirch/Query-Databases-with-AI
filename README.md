@@ -1,15 +1,15 @@
 # **LangChain SQL Chatbot: Query Databases with AI**  
 
-🚀 **Interact with SQL databases using natural language!** This open-source Streamlit app leverages **LangChain** and **Groq Llama3** to enable conversational querying of SQLite, PostgreSQL, and MySQL databases.  
+**Interact with SQL databases using natural language!** This open-source Streamlit app leverages **LangChain** and **Groq Llama3** to enable conversational querying of SQLite, PostgreSQL, and MySQL databases.  
 
 ---
 
 ## **Features**
-✅ Chat with your database using AI  
-✅ Supports **SQLite, PostgreSQL, and MySQL**  
-✅ Uses **LangChain SQL Agent** for intelligent query generation  
-✅ Secure **API Key input for Groq Llama3 model**  
-✅ Optimized for **performance with caching**  
+- Chat with your database using AI  
+- Supports **SQLite, PostgreSQL, and MySQL**  
+- Uses **LangChain SQL Agent** for intelligent query generation  
+- Secure **API Key input for Groq Llama3 model**  
+- Optimized for **performance with caching**  
 
 ---
 
@@ -68,7 +68,7 @@ You need a **Groq API Key** to use the **Llama3 model**. Enter it in the sidebar
 ---
 
 ## **Contributing**
-🎯 **Want to improve this project?**  
+**Want to improve this project?**  
 
 1. **Fork this repository**  
 2. **Create a new branch**  
@@ -79,13 +79,8 @@ All contributions are welcome!
 
 ---
 
-## **License**
-🚨 **No license yet!** This project is open-source but doesn't have a license. Feel free to use and modify it, but it's recommended to add a license if needed.  
-
----
-
-### **⭐ Star this Repo if You Like It!**
-🔗 **GitHub Repo:** _[https://github.com/ravirch/Query-Databases-with-AI](https://github.com/ravirch/Query-Databases-with-AI)_  
-💬 **Questions?** Open an issue or reach out!  
+### **Star this Repo if You Like It!**
+- **GitHub Repo:** _[https://github.com/ravirch/Query-Databases-with-AI](https://github.com/ravirch/Query-Databases-with-AI)_  
+- **Questions?** Open an issue or reach out!  
 
 ---
